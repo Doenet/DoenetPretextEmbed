@@ -1,0 +1,16 @@
+{
+    "name": "@doenet/pretext-embed",
+    "type": "module",
+    "description": "Doenet content in an iframe to be embedded in pretext",
+    "version": "0.0.1",
+    "license": "AGPL-3.0-or-later",
+    "homepage": "https://github.com/Doenet/DoenetML#readme",
+    "private": false,
+    "repository": "github:Doenet/DoenetML",
+    "files": [
+        "/src"
+    ],
+    "peerDependencies": {},
+    "dependencies": {},
+    "devDependencies": {}
+}
